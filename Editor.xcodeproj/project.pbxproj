@@ -430,21 +430,11 @@
 		49004CF815E44A490051DDE6 = {
 			isa = PBXGroup;
 			children = (
-				4900534E15EACA370051DDE6 /* AVFoundation.framework */,
-				4900534C15EACA160051DDE6 /* GameKit.framework */,
-				4900534A15EAC9FD0051DDE6 /* AudioToolbox.framework */,
-				4900534815EAC9D00051DDE6 /* QuartzCore.framework */,
-				4900534415EAC9C00051DDE6 /* OpenAL.framework */,
-				4900534515EAC9C00051DDE6 /* OpenGLES.framework */,
-				4900534215EAC9B20051DDE6 /* Foundation.framework */,
-				4900533C15EAC9590051DDE6 /* CoreGraphics.framework */,
-				4900533A15EAC94F0051DDE6 /* CoreFoundation.framework */,
-				4900533815EAC9430051DDE6 /* UIKit.framework */,
-				4900533715EAC9140051DDE6 /* Frameworks */,
 				4900533515EAC7DB0051DDE6 /* Info.plist */,
 				490051AB15EAC78D0051DDE6 /* Classes */,
 				490051BC15EAC78D0051DDE6 /* libs */,
 				490052AD15EAC78E0051DDE6 /* Resources */,
+				4900533715EAC9140051DDE6 /* Frameworks */,
 				49004D0415E44A4A0051DDE6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -857,6 +847,16 @@
 		4900533715EAC9140051DDE6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				4900534E15EACA370051DDE6 /* AVFoundation.framework */,
+				4900534C15EACA160051DDE6 /* GameKit.framework */,
+				4900534A15EAC9FD0051DDE6 /* AudioToolbox.framework */,
+				4900534815EAC9D00051DDE6 /* QuartzCore.framework */,
+				4900534415EAC9C00051DDE6 /* OpenAL.framework */,
+				4900534515EAC9C00051DDE6 /* OpenGLES.framework */,
+				4900534215EAC9B20051DDE6 /* Foundation.framework */,
+				4900533C15EAC9590051DDE6 /* CoreGraphics.framework */,
+				4900533A15EAC94F0051DDE6 /* CoreFoundation.framework */,
+				4900533815EAC9430051DDE6 /* UIKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1145,6 +1145,7 @@
 				49004E9E15E44A4D0051DDE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
